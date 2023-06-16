@@ -143,10 +143,10 @@ function comprarCarrito() {
         width: 600,
         padding: '3em',
         color: '#716add',
-        background: '#fff url(/img/efecto.gif)',
+        background: '#fff url(./img/efecto.gif)',
         backdrop: `
         rgba(0,0,123,0.4)
-        url("/img/abrazo-gato.gif")
+        url("./img/abrazo-gato.gif")
         left top
         no-repeat
     `,

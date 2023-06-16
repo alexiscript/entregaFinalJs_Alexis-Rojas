@@ -162,7 +162,7 @@ a {
 
 .aside2 {
     display: flex;
-    height: 3.8vh;
+    height: 40px;
     justify-content: space-between;
     background-color: rgb(71, 78, 71);
 }

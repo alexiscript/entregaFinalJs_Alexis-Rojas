@@ -1,0 +1,82 @@
+[
+    {
+        "id": "monitor-01",
+        "titulo": "Monitor xpert 1",
+        "imagen": "./img/monitor1.webp",
+        "categoria": {
+            "nombre": "MONITORES",
+            "id": "monitores"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "monitor-02",
+        "titulo": "Monitor xpert 2",
+        "imagen": "./img/monitor2.webp",
+        "categoria": {
+            "nombre": "MONITORES",
+            "id": "monitores"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "monitor-03",
+        "titulo": "Monitor xpert 3",
+        "imagen": "./img/monitor3.webp",
+        "categoria": {
+            "nombre": "MONITORES",
+            "id": "monitores"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "monitor-04",
+        "titulo": "Monitor xpert 4",
+        "imagen": "./img/monitor4.webp",
+        "categoria": {
+            "nombre": "MONITORES",
+            "id": "monitores"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "teclado-01",
+        "titulo": "Teclado xpert 1",
+        "imagen": "./img/teclado1.webp",
+        "categoria": {
+            "nombre": "TECLADOS",
+            "id": "teclados"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "teclado-02",
+        "titulo": "Teclado xpert 2",
+        "imagen": "./img/teclado2.webp",
+        "categoria": {
+            "nombre": "TECLADOS",
+            "id": "teclados"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "teclado-03",
+        "titulo": "Teclado xpert 3",
+        "imagen": "./img/teclado3.webp",
+        "categoria": {
+            "nombre": "TECLADOS",
+            "id": "teclados"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "teclado-04",
+        "titulo": "Teclado xpert 4",
+        "imagen": "./img/teclado4.webp",
+        "categoria": {
+            "nombre": "TECLADOS",
+            "id": "teclados"
+        },
+        "precio": 1000
+    }
+]
